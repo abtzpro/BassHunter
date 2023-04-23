@@ -5,7 +5,7 @@ BassHunter takes in local audio from an mobile device's microphone and attempts 
 
 You know the story, ages old as it is. That one nieghbor, that one edgy guy with his 15 inch sub woofers, that person who just won't ever stop blaring obnoxious bass music at all hours, we've all been there.
 
-Well no more! With BassHunter, you can finally pinpoint the source of that pesky Bass Music using GPS. 
+Well no more! With BassHunter, you can finally pinpoint the source of that pesky Bass Music. 
 
 BassHunter was designed for those that may need it. To hopefully bring peace of mind, and peace in general to the user.
 
