@@ -9,4 +9,7 @@ Well no more! With BassHunter, you can finally pinpoint the source of that pesky
 
 BassHunter was designed for those that may need it. To hopefully bring peace of mind, and peace in general to the user.
 
+The original BassHunter was written in kotlin, but a python version has been added. 
+
 BassHunter is developed by abtzpro, Adam R, and Hello Security
+
