@@ -3,7 +3,7 @@ BassHunter: An abusive bass music GPS tracker.
 
 BassHunter takes in local audio from an mobile device's microphone and attempts to pinpoint the source of loud and abusive bass music with GPS. 
 
-You know the story, ages old as it is. That one nieghbor, that one edgy guy with his 15's, we've all been there.
+You know the story, ages old as it is. That one nieghbor, that one edgy guy with his 15 inch sub woofers, that person who just won't ever stop blaring obnoxious bass music at all hours, we've all been there.
 
 Well no more! With BassHunter, you can finally pinpoint the source of that pesky Bass Music using GPS. 
 
