@@ -7,7 +7,7 @@ You know the story, ages old as it is. That one nieghbor, that one edgy guy with
 
 Well no more! With BassHunter, you can finally pinpoint the source of that pesky Bass Music. 
 
-BassHunter was designed for those that may need it. To hopefully bring peace of mind, and peace in general to the user.
+BassHunter was designed for those that may need it. To hopefully bring peace of mind, and peace in general to the user. Allowing a user to pinpoint the source of the intrusive bass music, and potentially escalate it to authorities if required.
 
 The original BassHunter was written in kotlin, but a python version has been added.
 
