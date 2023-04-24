@@ -19,4 +19,4 @@ V2 is a complete rework of the original basshunter code
 It currently does not pull up the appropriate results as the functions for returning search results is set as a placeholder while I tweak the features for V3 (birds eye google maps, GPS pinning, bluetooth tracking, and a few other critical changes required to work.
 
 
-## please keep in mind BassHunter is in acrive development and is not a complete project as of yet
+## please keep in mind BassHunter is in active development and is not a complete project as of yet
